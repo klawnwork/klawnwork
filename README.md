@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kyle!</h1>
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻 Projects</h2>
 
   - [Active Directory Home Lab](https://github.com/klawnwork/ActiveDirectoryHomeLab)
   - [Azure Sentinel Failed RDP Visualization](https://github.com/klawnwork/Azure-Sentinel-Failed-RDP-Visualization)
