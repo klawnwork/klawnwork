@@ -4,7 +4,7 @@
 
   - [Active Directory Home Lab](https://github.com/klawnwork/ActiveDirectoryHomeLab)
   - [Azure Sentinel Failed RDP Visualization](https://github.com/klawnwork/Azure-Sentinel-Failed-RDP-Visualization)
-  - [AWS Data Pipeline](https://github.com/klawnwork/AWSDataPipeline)
+  - [AWS Data Pipeline](https://github.com/klawnwork/AWS-Data-Pipeline)
 
 <h2>Certifications</h2>
 
