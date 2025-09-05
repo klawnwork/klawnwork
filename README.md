@@ -9,6 +9,7 @@
 <h2>Certifications</h2>
 
   - [CompTIA Network+](https://docs.google.com/document/d/1fvo_OrSZC7uTLx6-N4RhyixAvwbrpLuc00YiLVOWToc/edit?usp=sharing)
+  - [AWS Solutions Architect](https://docs.google.com/document/d/19z0t4ulatiTC4D5WYcdbil5nlKNXgnhCMKPxC9eOp_s/edit?tab=t.0)
 
 <h2>📺 Popular YouTube Videos</h2>
 
